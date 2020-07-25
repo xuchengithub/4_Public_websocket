@@ -1,5 +1,6 @@
 # import the necessary packages
 pip install Flask
+pip install opencv-python
 pip install imutils
 
 # import the necessary packages
