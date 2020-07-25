@@ -1,4 +1,5 @@
 # import the necessary packages
+pip install imutils
 
 # import the necessary packages
 from pyimagesearch.motion_detection.SingleMotionDetector import * 
